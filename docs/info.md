@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just simple sequenctional design
 
 ## How to test
 
-Explain how to use your project
+Connect it and watch
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+input and output and usb cable
+## Pinout
+clk to clk and pin1 tto in1
